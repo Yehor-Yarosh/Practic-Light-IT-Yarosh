@@ -1,0 +1,180 @@
+
+
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.main-header {
+
+}
+.contact__item {
+	
+}
+
+
+.menu {
+	
+}
+
+.menu__item {
+	font-weight: 700;
+	font-size: 14px;
+}
+.menu__item a {
+	color: #2c465a;
+	text-transform: uppercase;
+  
+}
+
+.Search {
+	background: #accdda;
+	border: 0;
+}
+
+.Home {
+	background: #accdda;
+}
+
+.Power {
+	background: url('../img/back.jpg') center top;
+	
+}
+
+.title {
+	color: white;
+	padding: 200px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.web {
+	background:  #13a2c4 center top;
+
+}
+.LLG {
+	background:  #13a2c4 center top;
+	padding: 25px;
+}
+
+.LG {
+	color: white;
+	text-align: center;
+}
+
+.LGL {
+	color: white;
+	text-align: center;
+}
+
+.Projects {
+	background: #23323a;
+}
+
+.title1 {
+	background: #23323a center top;
+	padding: 25px;
+}
+.title1__heading {
+	background: #23323a;
+	color: #c4d3de;
+	text-align: center;
+}
+
+.title1__down {
+	background: #23323a;
+	color: #658190;
+	text-align: center;
+}
+
+.Project-title {
+	background: #2a3b45;
+}
+
+.PT {
+	color: #ffffff;
+}
+
+.PT1 {
+	color: #97a4ad;
+}
+
+.theme {
+	padding: 25px;
+}
+.theme1 {
+	padding: 5px;
+	color: #008fd5;
+}
+
+.theme2 {
+	color: white;
+}
+
+.check {
+	background: #008fd5;
+	border-radius: 3px;
+	padding: 5px;
+	width: 200px;
+	height: 50px;
+	border: 0;
+}
+
+.Flex {
+	background: #098ed1;
+}
+
+.F1 {
+	padding: 20px;
+	color: white;
+}
+
+.Team {
+	background: url('../img/11.jpg');
+}
+
+.T1 {
+	color: white;
+	text-align: center;
+}
+
+.Team1 {
+	background: url('../img/11.jpg');
+}
+
+.T2 {
+	text-align: 20px;
+	color: #f5f5f5;
+}
+
+.Team1 p {
+	color: white;
+}
+
+.Touch {
+	background: url('../img/Touch.jpg');
+	text-align: center;
+	padding: 25px;
+}
+
+.Touch h3 {
+	color: white;
+}
+
+.main-footer {
+	background: #19242a;
+}
+
+.Foot {
+	color: #678797;
+}
+
+.Foot1 {
+	color: #bdd2dc;
+}
+
+.main-footer {
+	padding: 25px;
+}
+
